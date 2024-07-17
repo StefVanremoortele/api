@@ -1,0 +1,11 @@
+blinker==1.8.2
+click==8.1.7
+Flask==3.0.3
+grpcio==1.64.1
+grpcio-tools==1.64.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+protobuf==5.27.2
+setuptools==71.0.0
+Werkzeug==3.0.3
